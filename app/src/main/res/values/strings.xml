@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bochanalist</string>
+    <string name="bochanalist">Bochanalist</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sou_treinador_a">Sou Treinador(a)</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="ex_alexandre">Ex: Alexandre</string>
+    <string name="ex_alexandre_gmail_com">Ex: alexandre@gmail.com</string>
+    <string name="registrar">Registrar</string>
+    <string name="n_o_cadastrado_cadastre_se">Não é cadastrado ? Cadastre-se</string>
+    <string name="bemvindo">Bem vindo(a) treinador(a)</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="partida">Partida</string>
+    <string name="atletas">Atletas</string>
+    <string name="atleta">Atleta:</string>
+    <string name="codigo">Código:</string>
+    <string name="alterar">Alterar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="remover">Remover</string>
+    <string name="adicione_o_novo_a_atleta">Adicione o novo(a) atleta</string>
+    <string name="idade">Idade</string>
+    <string name="peso">Peso</string>
+    <string name="ex_175_1_75m">Ex: 175 (1,75m)</string>
+    <string name="altura">Altura</string>
+    <string name="ex_56_50_56_50kg">Ex: 56.50 (56.50Kg)</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="sexo">Sexo</string>
+    <string name="alterar_dados">Alterar dados</string>
+</resources>
